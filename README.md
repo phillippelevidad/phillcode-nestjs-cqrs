@@ -1,24 +1,22 @@
-Bancos de dados relacionais são extremamente comuns na construção de sistemas back-end, e o TypeORM vem ao resgate disponibilizando todas as ferramentas que você precisa pra gerenciar seu banco de dados em TypeScript, dentro da sua aplicação.
+Se você é desenvolvedor back-end e precisa resolver problemas de escalabilidade, precisa lidar com alta complexidade de lógica de negócios, e gerenciar conflitos de acesso a dados em sistemas de alta demanda, esse vídeo é pra você.
 
-🤔 Surge a dúvida: como garantir que a minha modelagem está preparada para o crescimento da aplicação, em termos de funcionalidades?
-
-⭐ Neste vídeo, eu te apresento uma forma Plug-and-Play de modelar seus dados, sem perder as garantias de integridade referencial do banco de dados, mas impondo um limite claro à navegação entre tabelas dentro da aplicação, evitando acoplamento e o clássico problema do "puxa o fio e vem a peruca."
+⭐ Vou te apresentar hoje o CQRS, que é um padrão de design de software que separa as partes de escrita e leitura dos dados na aplicação, permitindo otimizações independentes e melhor escalabilidade.
 
 ### ✅ O QUE VOCÊ VAI APRENDER
 
-* Modelagem extensível de banco de dados relacional
-* Relacionamentos 1..1, 1..N e N..N
-* Usando TypeORM
+- O que é CQRS
+- Commands e Queries, que podem ser otimizados separadamente
+- Usando NestJS e TypeORM
 
 ### ✅ VÍDEO
 
-https://youtu.be/-6vke5IHjqs
+https://youtu.be/KmzabOeDVz8
 
 ### ✅ SIGA-ME NAS REDES
 
-* linkedin: https://www.linkedin.com/in/phillippesantana
-* instagram: https://www.instagram.com/phillcode.io
-* tiktok: https://www.tiktok.com/@phillcode
-* youtube: https://www.youtube.com/@PhillCodea
-* github: https://github.com/phillippelevidad
-* blog: https://phillcode.io
+- linkedin: https://www.linkedin.com/in/phillippesantana
+- instagram: https://www.instagram.com/phillcode.io
+- tiktok: https://www.tiktok.com/@phillcode
+- youtube: https://www.youtube.com/@PhillCodea
+- github: https://github.com/phillippelevidad
+- blog: https://phillcode.io
